@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>shadybraden</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content on shadybraden</description>
+    <generator>Hugo -- 0.126.2</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 29 Dec 2024 20:02:41 -0500</lastBuildDate>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Website</title>
+      <link>http://localhost:1313/article/website/</link>
+      <pubDate>Sun, 29 Dec 2024 20:02:41 -0500</pubDate>
+      <guid>http://localhost:1313/article/website/</guid>
+      <description>How i made this website Install process: dnf install hugo go to directory, then hugo new site ./
+i referenced https://youtu.be/hjD9jTi_DQ4 to get me started
+download a theme, and set it in hugo.toml
+to make a new post, or new content, hugo new article/website.md this makes the md file in the content/posts folder
+add an image: ![llama](/img/llama.png &amp;quot;llama&amp;quot;)
+so here is what my website.md looks like so far:
++++ title = &amp;#39;Website&amp;#39; date = 2024-12-29T20:02:41-05:00 draft = false tags = [ &amp;#34;website&amp;#34;,&amp;#34;intro&amp;#34; ] +++ # how i made this website `dnf install hugo` go to directory, then `hugo new site .</description>
+    </item>
+  </channel>
+</rss>
